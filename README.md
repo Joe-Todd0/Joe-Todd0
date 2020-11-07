@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there!
 
-<!--
-**Joe-Todd0/Joe-Todd0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+----------------------------------
 
-Here are some ideas to get you started:
+My name is Joseph. I am an aspiring student developer attempting to improve my skills and learn new things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I’m currently working on ...
+
+  - Improving my C/C++ abilities
+  - Learning about databases (mainly MySQL)
+  - Building applications with QT
+  
+### Plans for the future ... 
+
+  - Learn more about kernel/OS development 
+  - Actively create patches for the linux kernel
+  - Finish + publish unfinished projects
+  
+[![Github stats](https://github-readme-stats.vercel.app/api?Joe-Todd0=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Joe-Todd0=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
