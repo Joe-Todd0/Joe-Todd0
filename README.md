@@ -16,5 +16,5 @@ My name is Joseph. I am an aspiring student developer attempting to improve my s
   - Actively create patches for the linux kernel
   - Finish + publish unfinished projects
   
-[![Github stats](https://github-readme-stats.vercel.app/api?Joe-Todd0=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Joe-Todd0=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=Joe-Todd0)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joe-Todd0)](https://github.com/anuraghazra/github-readme-stats)
