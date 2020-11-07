@@ -20,4 +20,4 @@ My name is Joseph. I am an aspiring student developer attempting to improve my s
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joe-Todd0)](https://github.com/anuraghazra/github-readme-stats)
 
 # Tech + Tools ... 
-![OS](https://img.shields.io/badge/OS-Linux-purple) ![IDE](https://img.shields.io/badge/IDE-VIM-purple) ![Lang](https://img.shields.io/badge/Lang-C/C++-purple)
+![OS](https://img.shields.io/badge/OS-Arch & Gentoo-purple) ![IDE](https://img.shields.io/badge/IDE-VIM-purple) ![Lang](https://img.shields.io/badge/Lang-C/C++-purple)
