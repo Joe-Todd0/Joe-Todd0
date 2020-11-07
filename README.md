@@ -19,5 +19,5 @@ My name is Joseph. I am an aspiring student developer attempting to improve my s
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Joe-Todd0)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joe-Todd0)](https://github.com/anuraghazra/github-readme-stats)
 
-# Tech + Tools ... 
+### Tech + Tools ... 
 ![OS](https://img.shields.io/badge/OS-Gentoo-purple) ![IDE](https://img.shields.io/badge/IDE-VIM-purple) ![Lang](https://img.shields.io/badge/Lang-C/C++-purple)
