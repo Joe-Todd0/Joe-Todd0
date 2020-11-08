@@ -8,12 +8,14 @@ My name is Joseph. I am an aspiring student developer attempting to improve my s
 
   - Improving my C/C++ abilities
   - Learning about databases (mainly MySQL)
+  - Learning about APIs & server-side logic
   - Building applications with QT
   
 ### Plans for the future ... 
 
   - Learn more about kernel/OS development 
-  - Actively create patches for the linux kernel
+  - Learn more about server-side logic
+  - Create an API using python and flask
   - Finish + publish unfinished projects
   
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Joe-Todd0)](https://github.com/anuraghazra/github-readme-stats)
